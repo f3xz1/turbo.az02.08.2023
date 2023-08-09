@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\f3xz1\\source\\repos\\TurboAzMVC\\TurboAzMVC\\wwwroot\\assets\\turbo-az-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\turbo-az-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\f3xz1\\source\\repos\\TurboAzMVC\\TurboAzMVC\\wwwroot\\css\\form.css",
+      "PackagePath": "staticwebassets\\css\\form.css"
+    },
+    {
+      "Id": "C:\\Users\\f3xz1\\source\\repos\\TurboAzMVC\\TurboAzMVC\\wwwroot\\css\\form.css.map",
+      "PackagePath": "staticwebassets\\css\\form.css.map"
+    },
+    {
+      "Id": "C:\\Users\\f3xz1\\source\\repos\\TurboAzMVC\\TurboAzMVC\\wwwroot\\css\\form.scss",
+      "PackagePath": "staticwebassets\\css\\form.scss"
+    },
+    {
+      "Id": "C:\\Users\\f3xz1\\source\\repos\\TurboAzMVC\\TurboAzMVC\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\f3xz1\\source\\repos\\TurboAzMVC\\TurboAzMVC\\wwwroot\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\css\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\f3xz1\\source\\repos\\TurboAzMVC\\TurboAzMVC\\wwwroot\\css\\main.scss",
+      "PackagePath": "staticwebassets\\css\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\f3xz1\\source\\repos\\TurboAzMVC\\TurboAzMVC\\wwwroot\\js\\form.js",
+      "PackagePath": "staticwebassets\\js\\form.js"
+    },
+    {
+      "Id": "C:\\Users\\f3xz1\\source\\repos\\TurboAzMVC\\TurboAzMVC\\wwwroot\\lib\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\f3xz1\\source\\repos\\TurboAzMVC\\TurboAzMVC\\wwwroot\\lib\\package.json",
+      "PackagePath": "staticwebassets\\lib\\package.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TurboAzMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TurboAzMVC.props",
+      "PackagePath": "build\\TurboAzMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TurboAzMVC.props",
+      "PackagePath": "buildMultiTargeting\\TurboAzMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TurboAzMVC.props",
+      "PackagePath": "buildTransitive\\TurboAzMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
