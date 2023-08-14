@@ -1,12 +1,10 @@
 .div-search-container {
-    margin-top: 40px;
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    height: 100%;
-    width: 100%;
-    margin-top: 30%;
-    background-color: #ebedf3;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 30%;
+  width: 100%;
 }
 .div-search-container .container-search {
   height: 100%;
